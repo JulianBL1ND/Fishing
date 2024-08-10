@@ -1,0 +1,11 @@
+name: Fisher
+version: '1.0-SNAPSHOT'
+main: me.bl1nd.fisher.Fisher
+api-version: '1.21'
+commands:
+  fishleaderboard:
+    description: Show the fish catching leaderboard
+    usage: /fishleaderboard
+  setfishtop:
+    description: Set up a hologram for the top 10 fishers
+    usage: /setfishtop
